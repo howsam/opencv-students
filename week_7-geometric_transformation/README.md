@@ -12,7 +12,7 @@ This Jupyter notebook provides exercises on geometric transformations using Open
 **2. Section 1: from Scratch**
 
 - **Rotate:** 
-  - Implementation of image rotation using vectorized techniques.(Rotated Image with Same Size of Input Image)
+  - Implementation of image rotation using vectorized techniques. (Rotated Image with Same Size of Input Image)
   - Implementation of Rotated Image Larger than Input (No Loss of Input Area)
   - Display the original and rotated images.<br><br>
   <div align="center">
